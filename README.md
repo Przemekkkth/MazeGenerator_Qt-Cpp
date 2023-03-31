@@ -16,4 +16,4 @@ qmake && make
 * [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
 * [Github](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Mazes.cpp) - inspiration
 * [yt](https://youtu.be/L7k7QzKe0Mc) - gameplay
-* [See online](https://przemekkkth.github.io/maze/index.html) - app hosted on GitHub
+* [See online](https://przemekkkth.github.io/assets/games/maze/index.html) - app hosted on GitHub
